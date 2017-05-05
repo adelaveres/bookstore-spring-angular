@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <book id="1">
+        <title>On the Map: A Mind-Expanding Exploration of the Way the World Looks</title>
+        <author>Dava Sobel</author>
+        <genre>geography</genre>
+        <quantity>24</quantity>
+        <price>8.97</price>
+    </book>
+    <book id="2">
+        <title>Unruly Places: Lost Spaces, Secret Cities, and Other Inscrutable Geographies</title>
+        <author>Alastair Bonnett</author>
+        <genre>geography</genre>
+        <quantity>27</quantity>
+        <price>16.66</price>
+    </book>
+    <book id="3">
+        <title>The Scrambled States of America (Books for Young Readers)</title>
+        <author>Laurie Keller</author>
+        <genre>geography</genre>
+        <quantity>12</quantity>
+        <price>6.49</price>
+    </book>
+    <book id="4">
+        <title>A People's History of the United States</title>
+        <author>Howard Zinn</author>
+        <genre>history</genre>
+        <quantity>39</quantity>
+        <price>25.46</price>
+    </book>
+    <book id="5">
+        <title>1776</title>
+        <author>David McCullough</author>
+        <genre>history</genre>
+        <quantity>24</quantity>
+        <price>12.99</price>
+    </book>
+    <book id="6">
+        <title>The Wright Brothers</title>
+        <author>David McCullough</author>
+        <genre>history</genre>
+        <quantity>39</quantity>
+        <price>13.6</price>
+    </book>
+    <book id="7">
+        <title>Unbroken: A World War II Story of Survival, Resilience, and Redemption</title>
+        <author>Laura Hillenbrand</author>
+        <genre>history</genre>
+        <quantity>40</quantity>
+        <price>9.74</price>
+    </book>
+    <book id="8">
+        <title>Team of Rivals: The Political Genius of Abraham Lincoln</title>
+        <author>Doris Kearns Goodwin</author>
+        <genre>history</genre>
+        <quantity>29</quantity>
+        <price>14.28</price>
+    </book>
+    <book id="9">
+        <title>The Diary of a Young Girl</title>
+        <author>Anne Frank</author>
+        <genre>holocaust</genre>
+        <quantity>44</quantity>
+        <price>13.5</price>
+    </book>
+    <book id="10">
+        <title>The Orphan's Tale</title>
+        <author>Pam Jenoff</author>
+        <genre>holocaust</genre>
+        <quantity>22</quantity>
+        <price>8.79</price>
+    </book>
+    <book id="11">
+        <title>Blink: The Power of Thinking Without Thinking</title>
+        <author>Malcom Gladwell</author>
+        <genre>psychology</genre>
+        <quantity>31</quantity>
+        <price>9.87</price>
+    </book>
+    <book id="12">
+        <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+        <author>Malcom Gladwell</author>
+        <genre>psychology</genre>
+        <quantity>25</quantity>
+        <price>11.01</price>
+    </book>
+    <book id="13">
+        <title>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</title>
+        <author>Stephen J. Dubner</author>
+        <genre>psychology</genre>
+        <quantity>23</quantity>
+        <price>10.19</price>
+    </book>
+    <book id="14">
+        <title>Thinking, Fast and Slow</title>
+        <author>Daniel Kahneman</author>
+        <genre>psychology</genre>
+        <quantity>40</quantity>
+        <price>7.75</price>
+    </book>
+    <book id="15">
+        <title>The Power of Habit: Why We Do What We Do in Life and Business</title>
+        <author>Charles Duhigg</author>
+        <genre>psychology</genre>
+        <quantity>14</quantity>
+        <price>13.5</price>
+    </book>
+    <book id="16">
+        <title>Predictably Irrational</title>
+        <author>Dan Ariely</author>
+        <genre>psychology</genre>
+        <quantity>27</quantity>
+        <price>11.2</price>
+    </book>
+    <book id="17">
+        <title>How Not to Die</title>
+        <author>Michael Greger</author>
+        <genre>nutrition</genre>
+        <quantity>0</quantity>
+        <price>13.7</price>
+    </book>
+    <book id="18">
+        <title>Studiul China</title>
+        <author>T. Colin Campbell</author>
+        <genre>nutrition</genre>
+        <quantity>0</quantity>
+        <price>12.11</price>
+    </book>
+    <book id="19">
+        <title>Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life</title>
+        <author>David Perlmutter</author>
+        <genre>nutrition</genre>
+        <quantity>0</quantity>
+        <price>11.8</price>
+    </book>
+    <book id="20">
+        <title>Super Foods Super Fast</title>
+        <author>Julie Montagu</author>
+        <genre>cookbook</genre>
+        <quantity>0</quantity>
+        <price>18.99</price>
+    </book>
+    <book id="21">
+        <title>Vegan Goodness</title>
+        <author>Jessica Prescott</author>
+        <genre>cookbook</genre>
+        <quantity>0</quantity>
+        <price>15.0</price>
+    </book>
+    <book id="22">
+        <title>Into Thin Air: A Personal Account of the Mt. Everest Disaster</title>
+        <author>Jon Krakauer</author>
+        <genre>sports</genre>
+        <quantity>0</quantity>
+        <price>20.5</price>
+    </book>
+    <book id="23">
+        <title>Moneyball: The Art of Winning an Unfair Game</title>
+        <author>Michael Lewis</author>
+        <genre>sports</genre>
+        <quantity>0</quantity>
+        <price>12.9</price>
+    </book>
+</bookstore>

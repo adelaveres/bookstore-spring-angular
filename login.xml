@@ -1,0 +1,14 @@
+
+<login_accounts>
+
+	<account>
+		<username>employee</username>
+		<password>empl</password>
+	</account>
+
+	<account>
+		<username>admin</username>
+		<password>adm</password>
+	</account>
+	
+</login_accounts>

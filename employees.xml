@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee id="1">
+        <name>Andreescu Marian</name>
+        <pnc>1000100010001</pnc>
+        <address>str. Bucuresti, nr. 9, Tg. Mures</address>
+    </employee>
+    <employee id="2">
+        <name>Constantin Elena</name>
+        <pnc>1000100010002</pnc>
+        <address>str. Campiei, nr. 10, Sighisoara</address>
+    </employee>
+    <employee id="3">
+        <name>Petrescu Bogdan</name>
+        <pnc>1000100010003</pnc>
+        <address>str. Farcas Marin, nr. 2, Timisoara</address>
+    </employee>
+    <employee id="4">
+        <name>Pablo Picasso</name>
+        <pnc>1000100010004</pnc>
+        <address>str. Place de la Concorde, nr. 14, Paris</address>
+    </employee>
+    <employee id="5">
+        <name>Hans Christian Andersen</name>
+        <pnc>1000100010005</pnc>
+        <address>str. Palatului Regal, nr. 20, Odense</address>
+    </employee>
+</employees>
