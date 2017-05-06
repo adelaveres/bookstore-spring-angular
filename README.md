@@ -6,11 +6,13 @@ The application is built for the employees and the administrator of a BookStore.
 ## Functionalities
 
 •	Ability to authenticate either as an employee, or  as an admin, using a username and a password, via the login page.
+
 •	Ability to do the following, while logged in as an employee:
 - access only the login page or stay on  the current page
 - view the list of existing registered books, and their details
 - search books by title, author, and genre
 - sell a number of copies of an existing book
+
 •	Ability to do the following, while logged in as an admin:
 - access only the login page, the employee page, and the books page
 - on the employee page:
