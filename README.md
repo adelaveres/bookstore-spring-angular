@@ -1,5 +1,30 @@
 # BookStore Application
+
 Spring Boot application, using AngularJS, Bootstrap, CSS for the user-interface, Maven for dependencies.
+The application is built for the employees and the administrator of a BookStore. 
+
+## Functionalities
+
+•	Ability to authenticate either as an employee, or  as an admin, using a username and a password, via the login page.
+•	Ability to do the following, while logged in as an employee:
+- access only the login page or stay on  the current page
+- view the list of existing registered books, and their details
+- search books by title, author, and genre
+- sell a number of copies of an existing book
+•	Ability to do the following, while logged in as an admin:
+- access only the login page, the employee page, and the books page
+- on the employee page:
+- view the list of existing employees, and their details
+- update a selected employee
+- delete a selected employee
+- add a new employee - only possible if introducing a personal numerical code different from the existing ones.
+- on the books page:
+- view the list of existing books, and their details
+- update a selected book
+- delete a selected book
+- add a new book – only possible if both title and author differ from any of the existing books
+- generate .pdf and .csv reports with the out-of-stock books
+
 
 
 Installation steps:
@@ -79,7 +104,7 @@ Employee - selling books, but there are insufficient books in stock:
  ![alt tag](screenshots/employee/5.Employee-sell-Oversell.jpg)
 
 Employee - before selling copies of first book:
- ![alt tag](screenshots/employee/7.Employee-sell - before.jpg)
+ ![alt tag](screenshots/employee/7.Employee-sell-before.jpg)
  
 Employee - after selling copies of first book:
  ![alt tag](screenshots/employee/7.Employee-sell-after.jpg)
